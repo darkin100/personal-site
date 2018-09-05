@@ -1,0 +1,11 @@
+
+
+body{
+    background-image: url(/bck.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.intro >h2 {color: lightgrey;}
+.intro >h1 {color: lightgrey;}
