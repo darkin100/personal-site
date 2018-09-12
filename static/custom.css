@@ -1,11 +1,15 @@
 
 
-body{
+div.profilepic{
     background-image: url(/bck.jpg);
-    background-size: cover;
-    background-position: 50% 50%;
-    background-repeat: no-repeat;
+    background-position: center center;
+	background-repeat:  no-repeat;
+	margin-left: -15px;
+	background-size:  180% auto;;
+    width: 100%;
+    padding-bottom: 100%
 }
 
-.intro >h2 {color: lightgrey;}
-.intro >h1 {color: lightgrey;}
+div.intro {
+    margin-top: 200px;
+}
