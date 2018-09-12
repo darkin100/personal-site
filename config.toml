@@ -1,13 +1,13 @@
-baseURL = "https://darkin100.github.io/"
+baseURL = "http://glyndarkin.co.uk/"
 languageCode = "en-us"
 title = "Glyn Darkin"
-theme = [ "overrides", "minimal"]
+theme = [ "minimal"]
 #disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
     author = "Glyn Darkin"
-    description = "I'm a consultant living in Dublin, Ireland. I love making stuff, going places and having adventures <br/><br/> #work #make #do"
+    description = "This is me, I live in Dublin, Ireland. I love making stuff, going places and having adventures"
     githubUsername = "#"
     accent = "#4799B7"
     showBorder = true
@@ -16,7 +16,7 @@ googleAnalytics = ""
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-    css = ['custom.css']
+    
 
 
 #[[menu.main]]
