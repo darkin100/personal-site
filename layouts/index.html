@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-<head>
-
-	<meta charset="UTF-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	
-	<!-- SEO -->
-	<title>Glyn Darkin</title>
-	<meta name="description" content="{{ markdownify .Site.Params.Description }}" />
-	<meta name="robots" content="index, follow" />
-	<meta name="referrer" content="always" />
-
-	<!-- Social & Open Graph -->
-	<meta property="og:title" content="Glyn Darkin - This is me" />
-	<meta property="og:description" content="{{ markdownify .Site.Params.Description }}" />
-	<meta property="og:image" content="http://glyndarkin.co.uk/bck.jpg"> <!-- include your hosted image full URL -->
-	<meta property="og:url" content="http://glyndarkin.co.uk" />
-	<meta name="twitter:title" content="Glyn Darkin - This is me" >
-	<meta name="twitter:description" content="{{ markdownify .Site.Params.Description }}" />
-	<meta name="twitter:image" content="http://glyndarkin.co.uk/bck.jpg" /> <!-- include your hosted image full URL -->
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:creator" content="@glyndarkin" />
-
-	<!-- Favicon -->
-	<link rel="icon" type="image/png" href="images/favicon.png" sizes="32x32">
-
-	<!-- Styles -->
-	<link rel='stylesheet' href='/me.css' type='text/css' media='screen' />
-	<meta name="viewport" content="width=device-width,initial-scale=1" />
-
-</head>
+{{ partial "header" . }}
 
 <body id="fullsingle" class="page-template-page-fullsingle-me">
 
@@ -43,9 +11,13 @@
 			
 			<h1>{{ markdownify .Site.Params.Description }}
 				<br/> 
-				<a href="https://www.linkedin.com/in/glyndarkin/">#work</a> 
-				<a href="https://www.youtube.com/channel/UCP1gdX2fD6H4o0DJCVgWJRA">#make</a>
-				<a href="https://www.instagram.com/glyndarkin/">#do</a>
+				{{ if .Site.Menus.main }}
+                       
+                            {{ range sort .Site.Menus.main }}
+                                <a href="{{ .URL }}">{{ .Name }}</a>
+                            {{ end }}
+                       
+                {{ end }}
 			</h1>
 
 		</div>
@@ -112,4 +84,5 @@
 </div>
 
 </body>
-</html>
+
+{{ partial "footer" . }}
