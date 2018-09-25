@@ -6,5 +6,13 @@
         <a class="p-2 text-dark" href="#">#work</a>
         <a class="p-2 text-dark" href="#">#make</a>
         <a class="p-2 text-dark" href="#">#do</a>
+        {{ if .Site.Menus.icon }}
+                
+                    {{ range sort .Site.Menus.icon }}
+                        <a class="p-2 text-dark" href="{{ .URL }}"><i class="fab fa-{{ .Name }}"></i></a>
+                    {{ end }}
+                
+            {{ end }}
     </nav>
+    
 </div>

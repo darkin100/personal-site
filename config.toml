@@ -40,11 +40,6 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:me@glyndarkin.co.uk"
-    name = "envelope-o"
-    weight = 1
-
-[[menu.icon]]
     url = "https://www.instagram.com/glyndarkin/"
     name = "instagram"
     weight = 2
