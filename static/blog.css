@@ -24,3 +24,17 @@ img[src$='#floatright']
     margin: 0.7rem;      /* this margin is totally up to you */
     /* whatever else styles you fancy here */
 }
+
+iframe{
+  display: block;
+  margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                          whatever floats your boat, but keep the
+                          horizontal 'auto' for this to work */
+  /* whatever else styles you fancy here */
+}
+
+blockquote{
+  padding: 0 1em;
+    color: #6a737d;
+    border-left: 0.25em solid #dfe2e5;
+}
