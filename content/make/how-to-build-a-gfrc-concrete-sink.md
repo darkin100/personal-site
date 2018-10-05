@@ -5,7 +5,7 @@ tags: [ "make","concete", "homeimprovements", "GFRC"]
 draft: false
 ---
 
-![Concrete Sink](/2018/09/IMG_6288-2.jpg#center "GFRC Concrete Sink and IKEA Godmorgan base unit")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbwSXMr6IuU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 I have been wanting to build some furniture out of concrete for a while and whilst doing a home renovation I got the opportunity to build a small sink for a bedroom ensuite. After lots of research online this is the process I came up with including the lessons learned, lowlights and highlights.  
@@ -20,7 +20,7 @@ There are 2 options to consider when designing your sink. Most IKEA sinks for th
 
 For my project I used a Glass-fibre reinforced concrete (GFRC) as I wanted to keep the weight of the overall solution as low as possible and felt that the GFRC solution would give me more strength for such a small size pour.  I used a premix solution that just required me to add water to the mix. I chose this as I wanted to save time on my project and did not feel ready to do a mix myself.  My mix is designed for countertops and is self compacting, which eliminates as many airbubbles in the finished product as possible. Self compacting mixes are very runny which means that you have to cater for this in the design of your mould. 
 
-I split the process into 3 phases.
+I split the process into 3 steps.
 
 ### Phase 1 - The mould
 
@@ -74,7 +74,7 @@ The demould process was relatively easy, except for the sink insert which had st
 
 > Its a lot easier to shape your mould than the finished concrete
 
-The sizing of the sinkn is perfect and it fits the IKEA cabinet really well. The depth is nice and it creates a nice sized sink for such a small space. The raw finish is good, but I have a few issues that I will factor into my next design.
+The size of the sink is perfect and it fits the IKEA cabinet really well. The depth is nice and it creates a nice sized sink for such a small space. The raw finish is good, but I have a few issues that I will factor into my next design.
 
 * I did not use a mould releasing fluid, so the 2 part filler stuck to the concrete and came away with it.
 * Strands of the white silicon caulk came away with the concrete and can be seen in the finish.
