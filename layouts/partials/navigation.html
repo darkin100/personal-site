@@ -9,7 +9,9 @@
         {{ if .Site.Menus.icon }}
                 
                     {{ range sort .Site.Menus.icon }}
-                        <a class="p-2 text-dark" href="{{ .URL }}"><i class="fab fa-{{ .Name }}"></i></a>
+                        <a class="p-2 text-dark" href="{{ .URL }}">
+                            <i class="fab fa-{{ .Name }}"></i>
+                        </a>
                     {{ end }}
                 
             {{ end }}
