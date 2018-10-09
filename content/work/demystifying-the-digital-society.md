@@ -150,8 +150,211 @@ The most comman application we see of AI being used right now is the the media w
 
 ![XRay Diagnosis](/2018/10/Slide17.png#center "")
 
-The greatest example of using Artificial Intelligence is using AI to diagnos patient x-rays.
-Thousands of xrays have been loaded into an AI with the results, so that a model can be built of 
+The greatest example of using Artificial Intelligence is using AI to diagnose patient x-rays.
+Thousands of xrays have been loaded into an AI with the doctors diagnosis. The AI looks for patterns and correlations which becomes its model. Next time it sees them it will be able to diagnose the patient.  But this then raises a number of questions.
+Are our radiologists now obsolete or more efficient? will we work in tandem with these intelligent systems or will we be competing? 
+
+<hr/>
+
+### The Gig Economy
+
+![Deliveroo Cyclist](/2018/10/Slide18.png#center "")
+
+All this technology has created new jobs which we call the gig economy. 
+Contractors and Freelancers rather than employees, flexible working hours and new employment opportunities to earn extra income.
+
+<hr/>
+
+### The Gig Economy
+
+![Uber Driver](/2018/10/Slide19.png#center "")
+
+Or is it a way for companies to pay less tax, no pensions, no holidays and leaving works with little to no rights.
+
+<hr/>
+
+### The Digital Nomad
+
+![The Digital Nomad](/2018/10/Slide20.png#center "")
+
+2020 there will be 1 million unfulfilled software engineering job openings in the US alone.
+Software developers who can work from anywhere in the world
+And you dont even need to go to school or university to learn to program.
+I am self taught!!
+
+<hr/>
+
+### Free Services
+
+![1 Hacker Way](/2018/10/Slide21.png#center "")
+
+Incredible service that I get for free
+
+* Messaging, Email, documents, photos for free
+* I have all the music in the world on my phone
+* I can catch up with just about anybody I have ever met in under 5 minutes on Facebook 
+* There is an abundance of information
+* I can learn anything on the internet
+* Buy stuff delivered to my door next day
+
+<hr/>
+
+### Free Services
+
+![1 Hacker Way](/2018/10/Slide21.png#center "")
+
+Incredible service that I get for free
+
+* Messaging, Email, documents, photos for free
+* I have all the music in the world on my phone
+* I can catch up with just about anybody I have ever met in under 5 minutes on Facebook 
+* There is an abundance of information
+* I can learn anything on the internet
+* Buy stuff delivered to my door next day
+
+<hr/>
+
+### The Arab Spring
+
+![Arab Spring](/2018/10/Slide22.png#center "")
+
+Twitter and Facebook were partly responsible for the Arab Spring
+
+<hr/>
+
+### The Trump Election
+
+![The White House](/2018/10/Slide22.png#center "")
+
+That which can topple a dictator can damage a democracy.
+
+<hr/>
+
+### Our attention is money
+
+![missing the whale](/2018/10/Slide23.png#center "")
+
+Photographer Eric Smith captured the moment the unidentified man missed the amazing sight of the breaching humpback whale and posted it online.
+It surfaced just a few feet from the sailing boat spotted near Redondo Beach in California.
+Mr Smith said he captured five photos of the man staring down at his screen as the whale appeared.
+He uploaded the picture on Instagram with the caption: “A sign of the times.”
+
+https://www.telegraph.co.uk/travel/news/Man-glued-to-his-mobile-phone-misses-rare-humpback-whale-sighting/
+
+<hr/>
+
+### Our attention is money
+
+![missing the whale](/2018/10/Slide23.png#center "")
+
+Photographer Eric Smith captured the moment the unidentified man missed the amazing sight of the breaching humpback whale and posted it online.
+It surfaced just a few feet from the sailing boat spotted near Redondo Beach in California.
+Mr Smith said he captured five photos of the man staring down at his screen as the whale appeared.
+He uploaded the picture on Instagram with the caption: “A sign of the times.”
+
+https://www.telegraph.co.uk/travel/news/Man-glued-to-his-mobile-phone-misses-rare-humpback-whale-sighting/
+
+<hr/>
+
+### Social Media is harming our children
+
+![Social Media is harming our children](/2018/10/Slide24.png#center "")
+
+Social media is harming the mental health of teenagers, The state has to act!!!
+
+http://www.thejournal.ie/unicef-suicide-report-3450547-Jun2017/
+
+<hr/>
+
+### The king of Social Media
+
+![The king of Social Media](/2018/10/Slide25.png#center "")
+
+I could barely talk about the digital society without talking about facebook.
+
+Facebook has 2billion people on its platform, that’s half the internet!!
+
+87 Million of those had their personal data harvested by a Company called Cambridge Analytica
+That data was allegedly used to influence voter opinion
+
+Russian meddling and Fake news scandal
+
+<hr/>
+
+### Targetted Advertising
+
+![Facebook demographics](/2018/10/Slide26.png#center "")
+
+Still to this day I can put a targetd ad campaign together that can focus on your age, political persuasion, your income and your interested.
+
+<hr/>
+
+### The GAFA
+
+![The GAFA](/2018/10/Slide27.png#center "")
+
+Combined that have a market cap bigger than the GDP of the UK.
+
+They are so big they have become a threat to every industry.
+
+Everybody is trying to copy them, its what is at the heart of Digital Transformation.
+
+<hr/>
+
+### GDPR
+
+![GDPR](/2018/10/Slide28.png#center "")
+
+Our politicians are starting to see the risks.
+
+Regulation is here in the form of GDPR
+
+Its why your inboxes are full with emails asking you permission to keep your details
+
+It’s effectively the right to be forgotten and a right to your data.
+
+Google, Facebook now allow you to download all of you data
+
+<hr/>
+
+### Conundrum
+
+![Condundrum](/2018/10/Slide29.png#center "")
+
+So here is the conundrum, What will be the impact of taking control of our data?
+
+<hr/>
+
+### Russia
+
+![Russia](/2018/10/Slide30.png#center "")
+
+With the recent antics of Russia its pretty clear that Russia is on a charge to reposition its self as a world leader again and does not seem to care how it does this.
+
+<hr/>
+
+### Russia
+
+![AI Limited by the data we can provide it](/2018/10/Slide31.png#center "")
+
+But as I mentioned in my example of using AI in healthcare. The capability to build AI is limited only by the data you have to teach it
+
+<hr/>
+
+### Social Credit System
+
+![Social Credit System](/2018/10/Slide32.png#center "")
+
+So how do you compete against a country that is prepared to capture all your data and use it as part of their Social Credit System?
+
+Does taking control of our data give our world competitors a clear advantage in the race to AI dominance?
+
+Can we rely on the GAFA to use our data to move the dial on bettering our social fabric and ensuring that we as a western, democratic world keeps pace with our competitors?
+
+
+
+
+
 
 
 <br>
