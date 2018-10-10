@@ -5,7 +5,7 @@ tags: [ "digital", "transformation","work"]
 draft: false
 ---
 
-Earlier this year (2018) I was fortunate enough to be asked to do the keynote at the http://digitaltransformations.org/ conference.  This conference is a unique conference as it focuses on bringins IT and the Arts together and exposes some interesting cultural questions. It was a facinating experience and one that I will cherish.  Unfortunately my keynote was not recorded but here is the slide deck and story that I told.
+Earlier this year (2018) I was fortunate enough to be asked to do the keynote at the http://digitaltransformations.org/ conference.  The context of this conference is slightly different to most tech confirences as it seeks to bring together technologists and artists and poses a number of cultural questions.  
 
 
 ### Introduction
@@ -154,6 +154,8 @@ The greatest example of using Artificial Intelligence is using AI to diagnose pa
 Thousands of xrays have been loaded into an AI with the doctors diagnosis. The AI looks for patterns and correlations which becomes its model. Next time it sees them it will be able to diagnose the patient.  But this then raises a number of questions.
 Are our radiologists now obsolete or more efficient? will we work in tandem with these intelligent systems or will we be competing? 
 
+It can take up to 15 million images to train a neural netwrok to recognize and object.
+
 <hr/>
 
 ### The Gig Economy
@@ -199,21 +201,6 @@ Incredible service that I get for free
 
 <hr/>
 
-### Free Services
-
-![1 Hacker Way](/2018/10/Slide21.png#center "")
-
-Incredible service that I get for free
-
-* Messaging, Email, documents, photos for free
-* I have all the music in the world on my phone
-* I can catch up with just about anybody I have ever met in under 5 minutes on Facebook 
-* There is an abundance of information
-* I can learn anything on the internet
-* Buy stuff delivered to my door next day
-
-<hr/>
-
 ### The Arab Spring
 
 ![Arab Spring](/2018/10/Slide22.png#center "")
@@ -224,28 +211,15 @@ Twitter and Facebook were partly responsible for the Arab Spring
 
 ### The Trump Election
 
-![The White House](/2018/10/Slide22.png#center "")
+![The White House](/2018/10/Slide23.png#center "")
 
 That which can topple a dictator can damage a democracy.
 
 <hr/>
 
-### Our attention is money
+### Our eyeballs = their Money
 
-![missing the whale](/2018/10/Slide23.png#center "")
-
-Photographer Eric Smith captured the moment the unidentified man missed the amazing sight of the breaching humpback whale and posted it online.
-It surfaced just a few feet from the sailing boat spotted near Redondo Beach in California.
-Mr Smith said he captured five photos of the man staring down at his screen as the whale appeared.
-He uploaded the picture on Instagram with the caption: “A sign of the times.”
-
-https://www.telegraph.co.uk/travel/news/Man-glued-to-his-mobile-phone-misses-rare-humpback-whale-sighting/
-
-<hr/>
-
-### Our attention is money
-
-![missing the whale](/2018/10/Slide23.png#center "")
+![missing the whale](/2018/10/Slide24.png#center "")
 
 Photographer Eric Smith captured the moment the unidentified man missed the amazing sight of the breaching humpback whale and posted it online.
 It surfaced just a few feet from the sailing boat spotted near Redondo Beach in California.
@@ -258,7 +232,7 @@ https://www.telegraph.co.uk/travel/news/Man-glued-to-his-mobile-phone-misses-rar
 
 ### Social Media is harming our children
 
-![Social Media is harming our children](/2018/10/Slide24.png#center "")
+![Social Media is harming our children](/2018/10/Slide25.png#center "")
 
 Social media is harming the mental health of teenagers, The state has to act!!!
 
@@ -268,7 +242,7 @@ http://www.thejournal.ie/unicef-suicide-report-3450547-Jun2017/
 
 ### The king of Social Media
 
-![The king of Social Media](/2018/10/Slide25.png#center "")
+![The king of Social Media](/2018/10/Slide26.png#center "")
 
 I could barely talk about the digital society without talking about facebook.
 
@@ -283,7 +257,7 @@ Russian meddling and Fake news scandal
 
 ### Targetted Advertising
 
-![Facebook demographics](/2018/10/Slide26.png#center "")
+![Facebook demographics](/2018/10/Slide27.png#center "")
 
 Still to this day I can put a targetd ad campaign together that can focus on your age, political persuasion, your income and your interested.
 
@@ -291,7 +265,7 @@ Still to this day I can put a targetd ad campaign together that can focus on you
 
 ### The GAFA
 
-![The GAFA](/2018/10/Slide27.png#center "")
+![The GAFA](/2018/10/Slide28.png#center "")
 
 Combined that have a market cap bigger than the GDP of the UK.
 
@@ -303,7 +277,7 @@ Everybody is trying to copy them, its what is at the heart of Digital Transforma
 
 ### GDPR
 
-![GDPR](/2018/10/Slide28.png#center "")
+![GDPR](/2018/10/Slide29.png#center "")
 
 Our politicians are starting to see the risks.
 
@@ -319,7 +293,7 @@ Google, Facebook now allow you to download all of you data
 
 ### Conundrum
 
-![Condundrum](/2018/10/Slide29.png#center "")
+![Condundrum](/2018/10/Slide30.png#center "")
 
 So here is the conundrum, What will be the impact of taking control of our data?
 
@@ -327,7 +301,7 @@ So here is the conundrum, What will be the impact of taking control of our data?
 
 ### Russia
 
-![Russia](/2018/10/Slide30.png#center "")
+![Russia](/2018/10/Slide31.png#center "")
 
 With the recent antics of Russia its pretty clear that Russia is on a charge to reposition its self as a world leader again and does not seem to care how it does this.
 
@@ -335,7 +309,7 @@ With the recent antics of Russia its pretty clear that Russia is on a charge to 
 
 ### Russia
 
-![AI Limited by the data we can provide it](/2018/10/Slide31.png#center "")
+![AI Limited by the data we can provide it](/2018/10/Slide32.png#center "")
 
 But as I mentioned in my example of using AI in healthcare. The capability to build AI is limited only by the data you have to teach it
 
@@ -343,13 +317,105 @@ But as I mentioned in my example of using AI in healthcare. The capability to bu
 
 ### Social Credit System
 
-![Social Credit System](/2018/10/Slide32.png#center "")
+![Social Credit System](/2018/10/Slide33.png#center "")
 
 So how do you compete against a country that is prepared to capture all your data and use it as part of their Social Credit System?
 
 Does taking control of our data give our world competitors a clear advantage in the race to AI dominance?
 
 Can we rely on the GAFA to use our data to move the dial on bettering our social fabric and ensuring that we as a western, democratic world keeps pace with our competitors?
+
+<hr/>
+
+### Universal Basic Income
+
+![Universal Basic Income](/2018/10/Slide34.png#center "")
+
+This can all be a pretty scary picture of the future, but for content creators, artists and makers we have some of the greatest opportunities at hand.  The rise of the gig economy and machine learning is making us question the future of work and what kind of social system we will need to support our economies. In Finland they have launched an experiment to provide a Universal Basic Income to see what people do. Could we have a future like Star Trek where we get to do what we want and pursue meaningful and creative adventures without the need to worry about our careers and money?
+
+### New Platforms
+
+![Casey Neistat](/2018/10/Slide35.png#center "")
+
+We have new platforms and channels for our creativity like never before.  Casey Neistat on Youtube have over 9 million subscribers. He releases a video on youtube practically every day. Putting that into persepctive his video of snowboarding in New York has received 17 million views, that is more views than the great British Bake Off that peaked at 8.0 million.
+
+
+<hr/>
+
+### YouTube
+
+![Ed Sheeran](/2018/10/Slide36.png#center "")
+
+Not many singers were leveraging the potential of social media channels at the time, but Ed Sheeran quickly spotted (and leveraged) their potential. He was posting his videos online, and one of them was noticed by the rapper Example, who liked his style so much that he invited him to tour together.
+
+That helped him grow his online presence more and more, and people across the world started tuning in to his YouTube videos. Soon the media started paying attention to the ginger boy with the guitar and the amazing voice, and some big names and newspapers started mentioning him.
+
+How about a world here we have no more Simon Cowell dictating what bands become successfull!!
+
+<hr/>
+
+### Kickstarter
+
+![Star Citizen](/2018/10/Slide37.png#center "")
+
+But its not just about music and vlogging. One of the highest funded Kickstarter campaings was a computer game that raised $181,794,208.  Thats a lot of money to pump into your creative projects!!!
+
+https://en.wikipedia.org/wiki/List_of_highest_funded_crowdfunding_projects
+
+https://en.wikipedia.org/wiki/Chris_Roberts_(game_developer)
+
+<hr/>
+
+### New Business Models
+
+![Music Industry back on its feet](/2018/10/Slide38.png#center "")
+
+The music industry is back on its feet again now that we have new business models and channels that can actually monitise properly. But its also pushed creators to look at new revenue propositions, getting artists to do more live events and getting closer to their audiences.
+
+<hr/>
+
+### New Creative Tools
+
+![The AI that can play Irish Trad Music](/2018/10/Slide39.png#center "")
+
+As creators we have new tools that enable us to to more with less!!!
+
+http://theconversation.com/machine-folk-music-composed-by-ai-shows-technologys-creative-side-74708
+
+<hr/>
+
+### New Creative Tools
+
+![The camera with an AI](/2018/10/Slide40.png#center "")
+
+Imagine being able to take professional quality photos with your SLR. I love my SLR but often the complexity of taking the photo takes away from the moment!!!!
+
+<hr/>
+
+### The safer firework
+
+![AI Driven Drone flying](/2018/10/Slide42.png#center "")
+
+We can use these AIs to fly drones in the sky and create incredible visual displays that beat fireworks hands down.
+
+<hr/>
+
+### VR & AR
+
+![Magic Leap](/2018/10/Slide43.png#center "")
+
+And we have not even touched virtual reality and augmented reality coming to a home or phone near you soon.
+
+$6 Billion and it has not released a single product yet
+
+<hr/>
+
+### Who Knows?
+
+![Forbes Magazine Cover](/2018/10/Slide44.png#center "")
+
+Forbes magazine November 2017. The cover article is about Nokia, the unbeatable behemoth of the mobile phone industry. The same year that the iphone was released. The iphone cemented design & asthetics as a cornerstone for our digital revolution and for artists, makers, creators we need to embrace this digital transformation; standing on the shoulders of giants; adopting these platforms and tools to help shape our society and culture and to design our future.
+
 
 
 
