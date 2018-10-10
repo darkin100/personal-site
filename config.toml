@@ -20,12 +20,12 @@ googleAnalytics = "UA-68885964-1"
 
 
 [[menu.main]]
-    url = "https://www.linkedin.com/in/glyndarkin/"
+    url = "/work"
     name = "#work"
     weight = 1
 
 [[menu.main]]
-    url = "https://www.youtube.com/channel/UCP1gdX2fD6H4o0DJCVgWJRA"
+    url = "/make"
     name = "#make"
     weight = 2
 

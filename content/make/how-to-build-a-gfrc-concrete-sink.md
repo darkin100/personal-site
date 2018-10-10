@@ -5,6 +5,9 @@ tags: [ "make","concete", "homeimprovements", "GFRC"]
 draft: false
 ---
 
+*This article was originally written for [Instructables](https://www.instructables.com/id/How-to-Build-a-GFRC-Concrete-Sink/), please check out their site of you want to see the discussions in the comments*
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbwSXMr6IuU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
