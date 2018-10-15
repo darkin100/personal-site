@@ -31,7 +31,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	
 	{{ partial "css" . }}
-	
+
 	{{ if .Site.GoogleAnalytics }}
         <!-- Global Site Tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
@@ -42,5 +42,16 @@
 
           gtag('config', '{{ .Site.GoogleAnalytics }}');
         </script>
-        {{ end }}
+	{{ end }}
+		
+	<script type="text/javascript" src="/instafeed.min.js"></script>
+	<script type="text/javascript">
+		instafetch.init({
+    		accessToken: '14349483.1677ed0.3b6cccc12fee494ba96aae03bb685772',
+    		target: 'instafetch',
+    		numOfPics: 5,
+    		caption: false
+  		});
+	</script>
+
 </head>
