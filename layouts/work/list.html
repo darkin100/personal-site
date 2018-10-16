@@ -10,7 +10,33 @@
                 <div class="col-md-8 blog-main">
                     <h2>{{ .Title }}</h2>
     
-                    {{ range (.Paginator 5).Pages }} {{ partial "list-item" . }} {{ end }}
+                    {{ range (.Paginator 5).Pages }} 
+                    
+                    <div class="item">
+
+                        
+                        {{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006") | $.Scratch.Set "subtitle" }}
+                        {{ with .Description }} {{ $.Scratch.Set "subtitle" . }} {{ end }}
+                    
+                        <h4><a href="{{ .Scratch.Get "link" }}">{{ .Title }}</a></h4>
+                        <h6>{{ $.Scratch.Get "subtitle" }}    </h6>
+                        
+                        <p>
+                            {{ .Summary }}
+                        </p>
+
+                        {{ range .Params.tags }}
+                        <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">
+                            
+                            <span class="badge badge-secondary">{{ . }}</span>
+                        </a>
+                        {{ end }}
+                        <hr>
+                    
+                    </div>
+                    
+                    
+                    {{ end }}
     
                     {{ partial "paginator" . }}
                 
