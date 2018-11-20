@@ -1,5 +1,5 @@
 ---
-title: "AIB & Wipro Project CaseStudy"
+title: "AIB & Wipro Project Case Study"
 date: 2018-11-20
 tags: [ "digital", "transformation", "work"]
 draft: false
