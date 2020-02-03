@@ -8,7 +8,7 @@ googleAnalytics = "UA-68885964-1"
 [params]
     author = "Glyn Darkin"
     description = "This is me, I live in Dublin, Ireland. I love making stuff, going places and having adventures"
-    githubUsername = "#"
+    githubUsername = "#glyndarkin"
     accent = "#4799B7"
     showBorder = true
     backgroundColor = "white"
@@ -17,7 +17,6 @@ googleAnalytics = "UA-68885964-1"
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     
-
 
 [[menu.main]]
     url = "/work"
